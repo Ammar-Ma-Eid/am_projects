@@ -1,0 +1,4 @@
+3,france,usa,0,Internal,6000.0,0,Mohsen
+4,egypt,london,0,External,10000.0,
+1,cairo,domyat,2,Internal,200.0,55
+2,portaisd,alex,1,Internal,150.0,14,Mohsen
